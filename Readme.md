@@ -17,7 +17,7 @@ This Python program is a keylogger that captures and records keystrokes on a com
 
 ## Installation and Usage
 1. Clone or download the project files to your local machine.
-2. Install the required Python libraries listed above using the pip package manager.
+2. Install the required Python libraries listed above using the pipenv package manager.
 3. Update the email address and password variables in the code with your own email credentials.
 4. Replace the `toaddr` variable with the email address where you want to receive the data.
 5. Generate an encryption key using the Cryptography library and replace the `key` variable with your generated key.
