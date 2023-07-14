@@ -1,0 +1,74 @@
+Public IP Addres: 157.41.253.97Processor: Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: DESKTOP-637SQGA
+Private IP Address: 172.28.80.1
+Public IP Addres: 103.112.27.34Processor: Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: DESKTOP-637SQGA
+Private IP Address: 10.130.0.149
+Clipboard Data: 
+hello my name is rishu kumarClipboard Data: 
+def on_press(key):
+    global keys, count, currentTime
+    # to print key typed as output
+    print(key)
+    keys.append(key)
+    count += 1
+    if count >= 1:
+        count = 0
+        write_file(keys)
+        keys = []hello
+worldhello
+my
+name
+i
+s
+
+s
+rishu
+kumarg
+hello
+my
+name
+is
+rishu
+kumar5
+Public IP Addres: 157.41.253.97Processor: Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: DESKTOP-637SQGA
+Private IP Address: 172.28.80.1
+Public IP Addres: 103.112.27.34Processor: Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: DESKTOP-637SQGA
+Private IP Address: 10.130.0.149
+Clipboard Data: 
+hello my name is rishu kumarClipboard Data: 
+def on_press(key):
+    global keys, count, currentTime
+    # to print key typed as output
+    print(key)
+    keys.append(key)
+    count += 1
+    if count >= 1:
+        count = 0
+        write_file(keys)
+        keys = []hello
+worldhello
+my
+name
+i
+s
+
+s
+rishu
+kumarg
+hello
+my
+name
+is
+rishu
+kumar5
